@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36400748019",
+    "firebase_url": "https://drugorganizer.firebaseio.com",
+    "project_id": "drugorganizer",
+    "storage_bucket": "drugorganizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36400748019:android:4af0b0fafa595f8b2eee86",
+        "android_client_info": {
+          "package_name": "evased.drugorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36400748019-3boj42vbmtr70ieqm6f633uccicvl958.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "evased.drugorganizer",
+            "certificate_hash": "4c4da3697873902c6b2e04046b7361c2b3e54c0b"
+          }
+        },
+        {
+          "client_id": "36400748019-jpahprnrgd04l7t4ch9kjsi0tleasmke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYod5qH2oewmr0rQAzilFn632iLS5UGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36400748019-jpahprnrgd04l7t4ch9kjsi0tleasmke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

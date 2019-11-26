@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Drug Organizer</string>
+    <string name="or">OR</string>
+    <string name="register">REGISTER</string>
+    <string name="successfuly_logged_message">Welcome,</string>\
+    <string name="pending_reminders">Pending reminders</string>
+    <string name="reminders_history">Reminders history</string>
+    <string name="create_new_reminder">Create new</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="time">Time</string>
+    <string name="create">Create</string>
+    <string name="email">E-mail</string>
+    <string name="choose_date_and_time">Please choose date and time: </string>
+    <string name="password">Password</string>
+    <string name="new_reminder_creating">Create new reminder</string>
+    <string name="send_request">Send request</string>
+    <string name="open_request_activity">Open request activity</string>
+</resources>

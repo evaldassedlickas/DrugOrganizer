@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/send_request"
+        android:id="@+id/sendRequestBtn"
+        android:textColor="#fff"
+        android:background="@layout/button_default">
+
+    </Button>
+    <evased.drugorganizer.IndicatorView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="10dp"
+        android:background="#888888"
+        android:id="@+id/indicator">
+
+    </evased.drugorganizer.IndicatorView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:id="@+id/titleTextView">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:paddingTop="10dp"
+        android:textColor="@android:color/black"
+        android:id="@+id/body_text">
+
+    </TextView>
+</LinearLayout>
